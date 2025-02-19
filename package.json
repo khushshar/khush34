@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://khushshar.github.io/khush",
+  "homepage": "https://khushshar.github.io/khush34",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://khushshar.github.io/khush'",
+    "build-gh": "parcel build --public-url 'https://khushshar.github.io/khush34'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
